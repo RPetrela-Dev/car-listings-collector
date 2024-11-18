@@ -155,8 +155,9 @@ Contributions are welcome! To contribute:
 ## Credits
 
 If you use this code or any part of it in your own projects, please provide credit to the original author. You can credit by:
-    - Mentioning the project and linking back to this repository in your documentation.
-    - Acknowledging [Rey Petrela](https://github.com/RPetrela-Dev) in your work.
+
+- Mentioning the project and linking back to this repository in your documentation.
+- Acknowledging [Rey Petrela](https://github.com/RPetrela-Dev) in your work.
 
 ## License
 
