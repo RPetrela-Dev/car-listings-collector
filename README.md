@@ -66,6 +66,7 @@ Key objectives of this project:
 
 ## Folder Structure
 
+```
 car-listings-collector/
 ├── backend/
 │   ├── app/
@@ -77,7 +78,7 @@ car-listings-collector/
 ├── data/                    # Directory for temporary scraped data
 ├── README.md                # Project documentation
 └── .gitignore               # Git ignored files and folders
-
+```
 
 ## Setup Instructions
 
